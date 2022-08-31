@@ -1,0 +1,9 @@
+8
+TF
+(\land (x y) \neg y)
+(\leftrightarrow (\neg x y) y)
+(\land (\rightarrow (\neg x) (\lnot (\land x y))) (\lor x y))
+(\land (\rightarrow (\neg x) (\lnot (\land x y)) (\lor x y))
+(\wedge x y)
+(\land)
+(\neg (\vee x y))
